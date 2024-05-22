@@ -101,9 +101,9 @@ lolKey = up.LolHumanKey
 //--Kontak
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
-+ 'FN:Mrf.zvx\n' // Nama
-+ 'ORG:Lexa bot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=6282223014661:+62 822-2301-4661\n' // Nomor bot
++ 'FN:Mrf.zvx\n' // GAMER
++ 'ORG:Lexa bot;\n' // GAMER bot
++ 'TEL;type=CELL;type=VOICE;waid=255620330592:+255 620-330-592\n' // Nomor bot
 + 'END:VCARD' 
 
 
